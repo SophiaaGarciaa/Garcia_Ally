@@ -230,7 +230,7 @@ img {
 .hero-label {
    font-family: var(--font-body);
    font-size: var(--font-size-small);
-   color: #3D9EFF;
+   color: #2789eb;
    letter-spacing: 0.15rem;
    text-transform: capitalize;
 }
