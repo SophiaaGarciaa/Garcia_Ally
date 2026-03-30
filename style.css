@@ -240,6 +240,7 @@ img {
    color: var(--color-white);
    text-transform: uppercase;
    line-height: 1.05;
+   font-family: var(--font-headings);
 }
 
 .hero-image-wrapper {
@@ -308,6 +309,7 @@ img {
    text-align: center;
    letter-spacing: .15rem;
    margin-bottom: var(--space-xl);
+   font-family: var(--font-headings);
 }
 
 .new-music-content {
@@ -385,6 +387,7 @@ img {
    font-size: var(--font-size-section);
    margin-bottom: var(--space-xl);
    letter-spacing: 0.15rem;
+   font-family: var(--font-headings);
 }
 
 .soundboard-content {
@@ -444,6 +447,7 @@ img {
    color: var(--color-black);
    margin-bottom: var(--space-xl);
    letter-spacing: 0.15rem;
+   font-family: var(--font-headings);
 }
 
 .articles-content {
@@ -498,6 +502,7 @@ img {
    font-size: var(--font-size-section);
    margin-bottom: var(--space-xl);
    letter-spacing: 0.15rem;
+   font-family: var(--font-headings);
 }
 
 .interviews-content {
